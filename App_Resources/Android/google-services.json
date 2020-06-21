@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304588558930",
+    "firebase_url": "https://gamelist-65ede.firebaseio.com",
+    "project_id": "gamelist-65ede",
+    "storage_bucket": "gamelist-65ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304588558930:android:013f19834b9733e12a458b",
+        "android_client_info": {
+          "package_name": "com.andreasm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304588558930-i8t1v4retd5vu723g1mo9i7t8pngoll3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andreasm.app",
+            "certificate_hash": "077a39a5cdd4fb9c69824c67696ec3d51a76e9e4"
+          }
+        },
+        {
+          "client_id": "304588558930-acukrgflfpqi4qnhif0smclu438kg5gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-EUEux-jAithfMdmmGD2a0leSDcmCxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304588558930-acukrgflfpqi4qnhif0smclu438kg5gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
